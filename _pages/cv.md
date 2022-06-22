@@ -6,5 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
 
-<a href="devsubramanian.github.io/Resume.pdf" target="_blank">PDF.</a>
+<a href="devsubramanian.github.io/Resume.pdf" target="_blank">PDF</a>
