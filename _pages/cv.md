@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% include base_path %}
 
-<a href="devsubramanian.github.io/Resume.pdf" target="_blank">PDF</a>
+<a href="Resume.pdf" target="_blank">PDF</a>
