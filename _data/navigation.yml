@@ -16,8 +16,7 @@ main:
    # url: /year-archive/
     
   - title: "CV"
-    #url: https://devsubramanian.github.io/Resume.pdf
-    url: <a href="https://devsubramanian.github.io/Resume.pdf" target="_blank">CV.</a>
+    url: https://devsubramanian.github.io/Resume.pdf
     
   #- title: "Guide"
    # url: /markdown/
