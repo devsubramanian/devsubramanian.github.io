@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Dev, a Ph.D. candidate in David Smith's lab of Neurobiology of Learning and Memory at Cornell University. 
+I'm Dev, a Ph.D. candidate in [David Smith's][https://blogs.cornell.edu/davidsmithlab/] lab of Neurobiology of Learning and Memory at Cornell University. 
 
 
 My research
