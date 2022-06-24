@@ -28,7 +28,7 @@ My hobbies and life
 
 Apart from my research, I like to have intellectual conversations about various different topics like AI, Neuroscience, Philosophy, Astronomy etc. Currently, I live in a grad co-op at Cornell called [Gamma Alpha][house] with 12 other people from various countries and parts of the world, which contributes to a rich experience in learning and knowing about the various cultures across the planet. It inspires me to know that the nobel laureate, [Hans Bethe][nobel], was a member of this co-op. I also like to do star-gazing, hiking, and playing sports. I'm the captain of the Cornell cricket team and also the vice-president of the [cricket club][cricket].
 
-<!-- ---
+---
 ---
 
 [lab_website]: https://blogs.cornell.edu/davidsmithlab/
