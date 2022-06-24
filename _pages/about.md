@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Dev, a Ph.D. candidate in [David Smith's][https://blogs.cornell.edu/davidsmithlab/] lab of Neurobiology of Learning and Memory at Cornell University. 
+I'm Dev, a Ph.D. candidate in [David Smith's][lab_website] lab of Neurobiology of Learning and Memory at Cornell University. 
 
 
 My research
@@ -27,3 +27,8 @@ My hobbies and life
 ------
 
 Apart from my research, I like to have intellectual conversations about various different topics like AI, Neuroscience, Philosophy, Astronomy etc. I live in a grad co-op at Cornell with 12 other people from various countries and parts of the world, which contributes to a rich experience in learning and knowing about the various cultures across the planet. It inspires me to know that the nobel laureate, Hans Bethe, used to live at this co-op. I also like to do star-gazing, hiking, and playing sports. I'm the captain of the Cornell cricket team and also the vice-president of the cricket club.
+
+<!-- ---
+---
+
+[lab_website]: https://blogs.cornell.edu/davidsmithlab/
