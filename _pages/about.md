@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Dev, a Ph.D. candidate in [David Smith's][lab_website] lab of Neurobiology of Learning and Memory at [Cornell University][university]. I'll be graduating in 2024 summer so looking for job opportunities in Neuroscience-based data science/machine learning positions in industry/research institutes. You can find my résumé here: Résumé[resume]
+I'm Dev, a Ph.D. candidate in [David Smith's][lab_website] lab of Neurobiology of Learning and Memory at [Cornell University][university]. I'll be graduating in 2024 summer so looking for job opportunities in Neuroscience-based data science/machine learning positions in industry/research institutes. You can find my résumé here: [Résumé][resume]
 
 
 My research
