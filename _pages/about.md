@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm Dev, a Ph.D. candidate in [David Smith's][lab_website] lab of Neurobiology of Learning and Memory at [Cornell University][university]. 
+I'm Dev, a Ph.D. candidate in [David Smith's][lab_website] lab of Neurobiology of Learning and Memory at [Cornell University][university]. I'll be graduating next summer so looking for job opportunities in Neuroscience-based data science/machine learning positions in industry/research institutes.
 
 
 My research
 ------
 
-I'm studying the spatial encoding mechanisms in the Retrosplenial Cortex and the Hippocampus. These two regions are involved in encoding spatial and contextual memory but the way in which these two regions encode spatial information is different. I'm trying to understand the differences in their encoding patterns. My long term goal is to understand these differences and implementing them in artificial intelligence agents in the hope of making better AI. I analyze rodent neurophysiogical data to decode the spatial information representation in the two aforementioned brain regions. I'm also interested in building a model of spatial information encoding mechanism that supports spatial-contextual memory in these regions.
+I'm studying the neural basis of the Episodic memory in the Retrosplenial Cortex and the Hippocampus. One of the recent projects I completed involved the comparison of spatial and contextual memory encoding in these two regions using various analytic techniques. Recently, I found time cells in the Retrosplenial Cortex and currently working on analyzing the properties of temporal encoding in the Retrosplenial Cortex. My long-term goal is to understand the patterns of neuronal firing and implement them in artificial intelligence agents in the hope of making better AI.
 
 
 Background and my switch to Neuroscience
@@ -26,7 +26,7 @@ I did my Undergrad in Electronics and Communication Engg. from [National institu
 My hobbies and life
 ------
 
-Apart from my research, I like to have intellectual conversations about various different topics like AI, Neuroscience, Philosophy, Astronomy etc. Currently, I live in a grad co-op at Cornell called [Gamma Alpha][house] with 12 other people from various countries and parts of the world, which contributes to a rich experience in learning and knowing about the various cultures across the planet. It inspires me to know that the nobel laureate, [Hans Bethe][nobel], was a member of this co-op. I also like to do star-gazing, hiking, and playing sports. I'm the captain of the Cornell cricket team and also the vice-president of the [cricket club][cricket].
+Apart from my research, I like to have intellectual conversations about various different topics like AI, Neuroscience, Philosophy, Astronomy etc. Currently, I live in a grad co-op at Cornell called [Gamma Alpha][house] with 12 other people from various countries and parts of the world, which contributes to a rich experience in learning and knowing about the various cultures across the planet. It inspires me to know that the Nobel laureate, [Hans Bethe][nobel], was a member of this co-op. I also like to go star-gazing, hiking, and playing sports. I'm the vice-president of the [Cornell cricket club][cricket] and also play for the team.
 
 ---
 ---
