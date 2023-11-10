@@ -24,6 +24,7 @@ en: &DEFAULT_EN
   follow_label               : "Profile info:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
+  resume_label               : "Résumé"
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Recent Posts"
