@@ -20,7 +20,7 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Profile info</button>
+    <button class="btn btn--inverse"><u>Profile info</u></button>
     <ul class="author__urls social-icons">
       {% if author.resume %}
         <li><a href="{{ author.resume }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].resume_label | default: "Résumé" }}</a></li>
