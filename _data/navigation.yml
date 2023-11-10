@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
    # url: /year-archive/
     
- # - title: "Résumé"
-  #  url: https://devsubramanian.github.io/Resume.pdf
+  - title: "Résumé"
+    url: https://devsubramanian.github.io/Resume.pdf
     
   #- title: "Guide"
    # url: /markdown/
