@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm Dev and I graduated with a Ph.D. degree in July 2024 from [David Smith's][lab_website] lab of Neurobiology of Learning and Memory at [Cornell University][university]. I'm currently looking for job opportunities in Neuroscience-based data science/machine learning positions in universities/industry/research institutes. Here's my [résumé][resume].
+I'm Dev, a postdoctoral researcher in the Neurosurgery department at [UT Southwestern Medical Center][UTSW]. I graduated with a Ph.D. degree in July 2024 from [David Smith's][lab_website] lab at [Cornell University][university]. 
 
 
 My research
 ------
 
-I'm studying the neural basis of the Episodic memory in the Retrosplenial Cortex and the Hippocampus. One of the projects I completed involved the comparison of spatial and contextual memory encoding in these two brain regions using various analytic techniques. Recently, I discovered 'time cells' in the Retrosplenial Cortex and analyzed the mechanisms of temporal encoding in that brain region. One of my long-term goals is to understand the patterns of neuronal firing and implement them in artificial intelligence agents in the hope of making better AI. Another long-term goal is to contribute to the development of better treatment for people affected with brain disorders and also the development of non-invasive devices that can be used to track our brain health in our day-to-day lives, much like we use devices to track physical health nowadays.  
+My research focuses on collecting and analyzing the intraoperative single neuron electrophysiology data from patients with neurological disorders to understand cognitive and motor functions. I'm doing translational neuroscience research hoping to improve the treatment outcomes of these patients, building on my expertise in understanding cognitive functions in rodents using single neuron electrophysiological recordings during my M.S. and Ph.D. I'm also putting together a state-of-the-art electrophysiological setup to use high density probes for single neuron recording which will give a higher yield of simultaneously recorded neurons, providing even more useful insights into the cognitive and motor functions of patients with neurological disorders. 
 
 
 Background and my switch to Neuroscience
@@ -26,7 +26,7 @@ I did my Undergrad in Electronics and Communication Engg. from [National institu
 My hobbies and life
 ------
 
-Apart from my research, I like to have intellectual conversations about various different topics like AI, Neuroscience, Philosophy, Astronomy etc. Currently, I live in a grad co-op at Cornell called [Gamma Alpha][house] with 12 other people from various countries and parts of the world, which contributes to a rich experience in learning and knowing about the various cultures across the planet. It inspires me to know that the Nobel laureate, [Hans Bethe][nobel], was a member of this co-op. I also like to go star-gazing, hiking, and playing sports. I'm the vice-president of the [Cornell cricket club][cricket] and also play for the team.
+Apart from my research, I like to have intellectual conversations about various different topics like AI, Neuroscience, Philosophy, Astronomy etc. I like playing sports, especially cricket. I also like to do star-gazing, hiking, and traveling.
 
 ---
 ---
@@ -39,3 +39,4 @@ Apart from my research, I like to have intellectual conversations about various 
 [house]: https://www.gammaalphaithaca.com/
 [nobel]: https://en.wikipedia.org/wiki/Hans_Bethe
 [cricket]: https://www.facebook.com/cornellcricket/
+[UTSW]: https://www.utsouthwestern.edu/
